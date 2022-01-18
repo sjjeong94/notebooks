@@ -1,0 +1,4 @@
+data/
+dnnlib/
+torch_utils/
+*.pkl
